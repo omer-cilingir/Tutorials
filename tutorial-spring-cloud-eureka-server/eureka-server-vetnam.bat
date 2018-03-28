@@ -1,0 +1,1 @@
+java -jar -Dspring.profiles.active=vietnam TutorialEurekaServer-1.0-SNAPSHOT.jar

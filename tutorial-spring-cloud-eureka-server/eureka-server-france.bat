@@ -1,0 +1,1 @@
+java -jar -Dspring.profiles.active=france TutorialEurekaServer-1.0-SNAPSHOT.jar
